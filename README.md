@@ -10,3 +10,6 @@ qb-menu: https://github.com/qbcore-framework/qb-menu
 
 # Discord
 https://discord.gg/AQHbsahZsV
+
+# Preview
+https://youtu.be/DyLMyrBIHso
